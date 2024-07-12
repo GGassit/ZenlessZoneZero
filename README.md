@@ -13,6 +13,8 @@ Under development ....
 
 ### Rage
 -No cooldown[Q]
+-Multihit
+-GodMod
 
 
 ### contact
