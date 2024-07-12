@@ -7,14 +7,14 @@ Under development ....
 - Object
 
 ### Misc
--Fov
--PlayerSpeed
+- Fov
+- PlayerSpeed
 
 
 ### Rage
--No cooldown[Q]
--Multihit
--GodMod
+- No cooldown[Q]
+- Multihit
+- GodMod
 
 
 ### contact
